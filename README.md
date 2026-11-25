@@ -27,6 +27,7 @@ CALCULATE (
     ALL ( 'Resident data (n=200)'[Dwelling] )
 )
 ```
+Other measures I wrote include income and dwelling shares and a dynamic KPI caption (e.g. "52 out of 200 residents").
 
 ## Key findings
 - **Yishun** has the highest share of lowest-income residents: 63%, more than double the 26% average. 63% of its residents also live in 1-room flats.
